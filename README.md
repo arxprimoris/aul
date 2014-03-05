@@ -1,4 +1,4 @@
 aul
 ===
 
-Arxprimoris Utility Library
+Arx Utility Library
